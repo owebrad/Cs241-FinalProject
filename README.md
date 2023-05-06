@@ -1,1 +1,3 @@
 # Cs241-FinalProject
+
+  The problem we aimed to solve with our project is a common one for Alaskans, iced windshields. This issue is an inconvenience to most as you must wait for your windshield to thaw, but reduced visibility can also prove fatal on the road. It can take 5-15 minutes for a windshield to completely deice so we aimed to significantly reduce this time by providing an additional heating element to the glass. The goal was to create a wireless control to start a heater for your windshield, as if it were an autostart, as this would drastically reduce waiting time, while also making the roads a safer place.
